@@ -1,0 +1,42 @@
+div {
+     font-family:'Calibri';
+    color:whitesmoke;
+    font-size:xx-large;
+}
+body {
+     background-color:skyblue;
+     text-align: center;
+}
+h1 {
+    color:rgb(255, 102, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    color:navy;
+    font-family: sans-serif;
+}
+.imageContainer {
+    width: 729px;
+    height: 528px;
+    background-image:url(lemonade-post.jpg);
+}
+p {
+   font-family: 'Arial';
+   font-size: x-large;
+}
+a {
+    color:crimson;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr {
+    height: 32px;
+    background-color:skyblue;
+    border: none;
+}
+h3 {
+    color:maroon;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
